@@ -1,26 +1,23 @@
 const numbers = [1,2,3,4,5,6,7,8,9,10,11,12,13,14];
-const evenNumbers = [];
-let evenSum = 0;
 
-for (let i = 0; i < numbers.length; i++) {
-    if (numbers[i] % 2 === 0)
-    {
-        evenNumbers.push(numbers[i])
+const getEvenNumbers = (tab) => tab.filter(el => el % 2 === 0);
+const sumEvenNumbers = (tab) => tab.reduce((prev, cur) => prev + cur);
+const multipyScore = (num) => Math.floor(Math.random() * (10 - 1) + 1) * num;
+const checkScore = (num) => {
+    if (num > 99) {
+        console.log(`${num} - to całkiem duża liczba.`);
     }
-}
+    else {
+        console.log(`${num} - to małą liczba.`);
+    }
+};
 
-for (let i = 0; i < evenNumbers.length; i++) {
-    evenSum += evenNumbers[i];
-}
+const evenNumbers = getEvenNumbers(numbers);
+const sum = sumEvenNumbers(evenNumbers);
+const multiply = multipyScore(sum);
+checkScore(multiply);
 
-let multipyScore = Math.floor(Math.random() * (10 - 1) + 1) * evenSum;
-
-if (multipyScore > 99) {
-    console.log(`${multipyScore} - to całkiem duża liczba.`);
-}
-else {
-    console.log(`${multipyScore} - to małą liczba.`);
-}
+// checkScore(multipyScore(sumEvenNumbers(getEvenNumbers(numbers))));
 
 
 
