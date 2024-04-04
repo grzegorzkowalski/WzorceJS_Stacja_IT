@@ -1,4 +1,4 @@
-import Wojownik from "./Wojownik";
+import Wojownik from "./Wojownik.mjs";
 
 class Strzelec extends Wojownik {
     constructor(name, age) {

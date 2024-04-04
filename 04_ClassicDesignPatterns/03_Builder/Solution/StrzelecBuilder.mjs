@@ -1,6 +1,6 @@
-import Strzelec from "../../02_Factory/Solution/Strzelec";
+import Strzelec from "../../02_Factory/Solution/Strzelec.mjs";
 
-class PiechurBuilder {
+class StrzelecBuilder {
     constructor(name, age) {
         this.strzelec = new Strzelec(name, age);
     }
@@ -18,4 +18,4 @@ class PiechurBuilder {
     }
 }
 
-export default PiechurBuilder;
+export default StrzelecBuilder;

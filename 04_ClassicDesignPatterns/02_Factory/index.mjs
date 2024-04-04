@@ -1,4 +1,4 @@
-import Garnizon from "./Solution/Garnizon";
+import Garnizon from "./Solution/Garnizon.mjs";
 
 const garnizon = new Garnizon();
 const tab = [];

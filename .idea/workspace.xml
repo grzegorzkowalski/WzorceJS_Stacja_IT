@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56925c42-fa2d-4d93-a71b-58340034d5e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/03_FunctionalProgramming/Zadanie_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_FunctionalProgramming/Zadanie_1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_FunctionalProgramming/Zadanie_3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_FunctionalProgramming/Zadanie_3/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/01_Singleton/Solution/staticSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/01_Singleton/Solution/staticSolution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/01_Singleton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/01_Singleton/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Garnizon.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Garnizon.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Konny.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Konny.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Piechur.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Piechur.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Strzelec.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Strzelec.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Wojownik.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/Solution/Wojownik.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/index.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/Solution/Garnizon.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/Solution/Garnizon.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/Solution/KonnyBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/Solution/KonnyBuilder.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/Solution/PiechurBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/Solution/PiechurBuilder.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/Solution/StrzelecBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/Solution/StrzelecBuilder.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/index.mjs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ebC0twwzvjTxkgqhRhRuutsxZn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Node.js.index.mjs (1)">
+    <configuration name="index.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03_FunctionalProgramming/Zadanie_3/index.js" working-dir="$PROJECT_DIR$/03_FunctionalProgramming/Zadanie_3">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03_FunctionalProgramming/Zadanie_1/index.js" working-dir="$PROJECT_DIR$/03_FunctionalProgramming/Zadanie_1">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/04_ClassicDesignPatterns/01_Singleton/index.js" working-dir="$PROJECT_DIR$/04_ClassicDesignPatterns/01_Singleton">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.mjs (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder/index.mjs" working-dir="$PROJECT_DIR$/04_ClassicDesignPatterns/03_Builder">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory/index.mjs" working-dir="$PROJECT_DIR$/04_ClassicDesignPatterns/02_Factory">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.mjs (1)" />
+        <item itemvalue="Node.js.index.mjs" />
+        <item itemvalue="Node.js.index.js (4)" />
+        <item itemvalue="Node.js.index.js (3)" />
+        <item itemvalue="Node.js.index.js (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56925c42-fa2d-4d93-a71b-58340034d5e9" name="Changes" comment="" />
+      <created>1712163672205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712163672205</updated>
+      <workItem from="1712163675192" duration="7448000" />
+      <workItem from="1712239019790" duration="7724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

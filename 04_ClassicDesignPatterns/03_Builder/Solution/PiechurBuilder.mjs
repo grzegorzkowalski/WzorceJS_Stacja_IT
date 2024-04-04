@@ -1,4 +1,4 @@
-import Piechur from "../../02_Factory/Solution/Piechur";
+import Piechur from "../../02_Factory/Solution/Piechur.mjs";
 
 class PiechurBuilder {
     constructor(name, age) {

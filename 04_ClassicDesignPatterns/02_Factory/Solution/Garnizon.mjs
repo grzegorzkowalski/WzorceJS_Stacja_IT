@@ -1,6 +1,6 @@
-import Piechur from "./Piechur";
-import Strzelec from "./Strzelec";
-import Konny from "./Konny";
+import Piechur from "./Piechur.mjs";
+import Strzelec from "./Strzelec.mjs";
+import Konny from "./Konny.mjs";
 
 class Garnizon {
     createSoldier(type, name, age) {

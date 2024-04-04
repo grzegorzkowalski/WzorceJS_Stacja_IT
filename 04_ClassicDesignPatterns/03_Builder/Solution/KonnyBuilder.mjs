@@ -1,6 +1,6 @@
-import Konny from "../../02_Factory/Solution/Konny";
+import Konny from "../../02_Factory/Solution/Konny.mjs";
 
-class PiechurBuilder {
+class KonnyBuilder {
     constructor(name, age) {
         this.konny = new Konny(name, age);
     }
@@ -18,4 +18,4 @@ class PiechurBuilder {
     }
 }
 
-export default PiechurBuilder;
+export default KonnyBuilder;
